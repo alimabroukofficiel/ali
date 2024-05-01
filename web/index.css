@@ -245,7 +245,7 @@ section{
 }
 @media screen and (max-width:767PX) {
   .cards__list .cards__scolling .card__item{
-    width: 120PX;height: 170PX;
+    width: 180PX;height: 250PX;
   }
 }
 .cards__list .cards__scolling .card__item .card__image{

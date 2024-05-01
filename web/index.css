@@ -89,6 +89,7 @@ body{
   color: var(--color-fg-body);
   font-family: 'earnogo';
   overflow-x: hidden;
+  touch-action: none;
 }
 
 /* background: linear-gradient(345deg, var(--token-ee053477-e115-4fec-a5f5-cdc637ed6ddc, #00ccff) 0%, var(--token-bd71055c-0a2c-4476-8cc9-4310acba652d, rgb(0, 153, 255))  100%);
